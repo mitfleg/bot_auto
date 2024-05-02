@@ -1,0 +1,36 @@
+{
+  "TOKEN": "",
+  "database": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "db": ""
+  },
+  "ADMIN": ":",
+  "yookassa": {
+    "account_id": "",
+    "secret_key": ""
+  },
+  "support": "",
+  "about_page": [
+    {
+      "descr": "Поиск по траспорту",
+      "link": "https://telegra.ph/Poisk-po-transportu-06-25"
+    },
+    {
+      "descr": "Деньги не поступили на баланс",
+      "link": "https://telegra.ph/Problema-s-zachisleniem-denezhnyh-sredstv-05-19"
+    }
+  ],
+  "auto": {
+    "login": "",
+    "password": "",
+    "price_otchet": 44,
+    "price_phone": 20,
+    "price_city": 10,
+    "price_area": 0,
+    "price_phone_tmp": 100,
+    "api_key_sms": "",
+    "my_phone": ""
+  }
+}
